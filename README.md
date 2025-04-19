@@ -28,3 +28,26 @@ HireMe is a simple job portal web application built with **Flask** where **stude
 - **Authentication**: Flask-Login
 
 ---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/Praniiiii/HireMe.git
+cd HireMe
+
+### 2. Create and activate virtual environment
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+
+### 4. Run the application
+
+```bash
+python app.py
