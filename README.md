@@ -50,7 +50,23 @@ HireMe is a full-stack internship project designed to simulate a real-world job 
 
 ---
 
-<pre><code>## 🌐 Project Web Pages - <code>index</code> – Homepage - <code>student_register</code> – Student Registration - <code>student_login</code> – Student Login - <code>student_home</code> – Student Dashboard - <code>student_reset_password</code> – Student Reset Password - <code>recruiter_register</code> – Recruiter Registration - <code>recruiter_login</code> – Recruiter Login - <code>recruiter_home</code> – Recruiter Dashboard - <code>create_job</code> – Job Posting Page - <code>job_details</code> – Job Description for Students - <code>recruiter_job_details</code> – Job Description for Recruiters - <code>recruiter_forgot_password</code> – Recruiter Password Reset - <code>report</code> – Report Generation / Summary - <code>database_setup</code> – DB Initialization Script </code></pre>
+🌐 Project Web Pages
+index – Homepage
+
+- student_register – Student Registration
+- student_login – Student Login
+- student_home – Student Dashboard
+- student_reset_password – Student Reset Password
+- recruiter_register – Recruiter Registration
+- recruiter_login – Recruiter Login
+- recruiter_home – Recruiter Dashboard
+- create_job – Job Posting Page
+- job_details – Job Description for Students
+- recruiter_job_details – Job Description for Recruiters
+- recruiter_forgot_password – Recruiter Password Reset
+- report – Report Generation / Summary
+- database_setup – DB Initialization Script
+
 
 ## 📁 Project Setup
 
