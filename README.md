@@ -1,3 +1,5 @@
+# HireMe - Job Portal Web Application 🎯
+
 HireMe is a simple job portal web application built with **Flask** where **students** can log in and apply for jobs, and **recruiters** can post job listings and contact students for recruitment.
 
 ---
