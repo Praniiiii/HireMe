@@ -143,3 +143,25 @@ python app.py
 ### Report Generation / Summary
 
 ![image](https://github.com/user-attachments/assets/f4362073-67aa-4b50-861d-506d59512d9f)
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome and appreciated! 🙌
+
+If you'd like to contribute to **HireMe**, follow these steps:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/your-feature-name`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'Add your message here'`)
+5. Push to the branch (`git push origin feature/your-feature-name`)
+6. Open a pull request
+
+Please make sure your code follows best practices and is well-documented.
+
+---
+
+⭐ If you like this project, don't forget to give it a star!
