@@ -1,38 +1,22 @@
 # HireMe - Job Portal Web Application 🎯
 
-**HireMe** is a web-based job portal designed to help **students** find and apply for job opportunities, while also enabling **recruiters** to post job listings and interact with potential candidates. This full-stack application is built with **Flask** as the backend, **HTML**, **CSS**, and **Bootstrap** for the frontend, and **SQLite** as the database (with an option to scale to MySQL or PostgreSQL). The platform also features secure authentication via **Flask-Login**, ensuring user privacy and safety.
+HireMe is a simple job portal web application built with **Flask** where **students** can log in and apply for jobs, and **recruiters** can post job listings and contact students for recruitment.
 
 ---
 
-## 🧑‍🎓 Student Functionality:
+## 🔧 Features
 
-1. **Register and Log In Securely**: 
-   - Students can register with their personal details and log in using a secure authentication system. Passwords are hashed and stored securely.
+### 🧑‍🎓 Student Functionality:
+- Register and log in securely
+- View available job listings
+- Apply to jobs
+- Manage personal profile and applications
 
-2. **View Available Job Listings**: 
-   - Once logged in, students can browse through a list of available job postings. This may include details such as the job title, description, salary, and required qualifications.
-
-3. **Apply to Jobs**: 
-   - Students can apply to jobs they are interested in. The system keeps track of their applications and allows them to manage or withdraw applications if necessary.
-
-4. **Manage Personal Profile and Applications**: 
-   - Students can view and update their personal details, including their resume and skills, as well as monitor the status of their job applications (e.g., pending, accepted, or rejected).
-
----
-
-## 🧑‍💼 Recruiter Functionality:
-
-1. **Register and Log In as a Recruiter**: 
-   - Recruiters have their own registration and login system, separate from students. This ensures that their posts and applicant management features are distinct and secure.
-
-2. **Post Job Opportunities**: 
-   - Recruiters can create and post job opportunities on the portal. They provide detailed information about the role, including title, description, required qualifications, location, salary range, and application deadlines.
-
-3. **View Student Applications**: 
-   - Recruiters can track and view the list of students who have applied to their job postings. This allows them to review resumes, cover letters, and student profiles.
-
-4. **Contact Selected Candidates**: 
-   - Recruiters can contact students directly through the portal to arrange interviews or provide further instructions. This can be integrated with an internal messaging system for ease of communication.
+### 🧑‍💼 Recruiter Functionality:
+- Register and log in as a recruiter
+- Post job opportunities
+- View student applications
+- Contact selected candidates
 
 ---
 
